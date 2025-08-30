@@ -1,0 +1,2 @@
+# -Health-Insurance-Premium-Prediction-Risk-Adjustment
+This project builds a machine learning-based insurance pricing model that predicts healthcare charges for individuals and evaluates premium-setting strategies to improve insurer profitability. It combines statistical modeling, advanced ML techniques, and financial simulations to demonstrate how data-driven methods can optimize insurance pricing.
